@@ -23,7 +23,6 @@
   ### Entre em contato :)
   
 <div style:" margin-top:200px"> 
- <a href="https://api.whatsapp.com/send?phone=5534999322116&text=Ol%C3%A1%20Victor%2C%20estou%20entrando%20em%20contato%20atrav%C3%A9s%20do%20seu%20perfil%20no%20github" target="_blank"><img width=30px src="https://cdn-icons-png.flaticon.com/512/733/733585.png?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vitinmoreira1908@gmail.com"><img width=55px src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victorgabriel1908/" target="_blank"><img width=35px src="https://www.aokisistemas.com.br/wp-content/uploads/2020/01/logo-linkedin-square.jpg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
