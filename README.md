@@ -25,11 +25,8 @@
 
 ```typescript
 const victor = {
-  cargo:    "Front-End Developer",
-  empresa:  "Sicoob Coopacredi · Patrocínio, MG",
-  periodo:  "3+ anos",
   stack:    ["Angular", "TypeScript", "JavaScript", "Node.js", "RxJS", "Sass"],
-  formação: "ADS · IFTM Campus Patrocínio (prev. conclusão: 2027)",
+  formação: "ADS · IFTM (prev. conclusão: 2027)",
 };
 ```
 
@@ -42,10 +39,7 @@ Desenvolvedor Front-End com foco em **Angular** e **TypeScript**, atuando na **S
 Atualmente aprofundando conhecimentos em **Estrutura de Dados**, **Arquitetura de Software** e explorando o universo **Spring Boot** para crescer como desenvolvedor full stack.
 
 - 🔭 **Foco atual:** Angular (Signals & RxJS) + Spring Boot
-- 🌱 **Estudando:** Estrutura de Dados, Clean Architecture, Design Patterns
 - 🎓 **Graduação:** Análise e Desenvolvimento de Sistemas — IFTM
-- 📍 **Localização:** Patrocínio, MG — Brasil
-- ⚡ **Além do código:** carros, hardware e games
 
 ---
 
@@ -91,29 +85,6 @@ Atualmente aprofundando conhecimentos em **Estrutura de Dados**, **Arquitetura d
 
 ---
 
-## 🐍 Contribuições
-
-![snake gif](https://github.com/Vitao5/Vitao5/blob/output/github-contribution-grid-snake.gif)
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vitao5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-
-### 💬 Entre em Contato
-
-Aberto a novas oportunidades, colaborações e conversas sobre tecnologia.
-
-[![LinkedIn](https://img.shields.io/badge/Vamos_nos_conectar!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorgabriel1908/)
-
-<br/>
 
 ```
 "O sucesso é a soma de pequenos esforços repetidos dia após dia."
