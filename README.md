@@ -34,7 +34,7 @@ const victor = {
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Front-End com foco em **Angular** e **TypeScript**, atuando na **Sicoob Coopacredi**. Sou apaixonado por construir interfaces limpas, performáticas e acessíveis — e igualmente curioso pelo que acontece no back-end.
+Desenvolvedor com foco em **Angular** e **TypeScript**. Sou apaixonado por construir interfaces limpas, performáticas e acessíveis — e igualmente curioso pelo que acontece no back-end.
 
 Atualmente aprofundando conhecimentos em **Estrutura de Dados**, **Arquitetura de Software** e explorando o universo **Spring Boot** para crescer como desenvolvedor full stack.
 
