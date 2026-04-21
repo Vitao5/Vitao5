@@ -93,11 +93,7 @@ Atualmente aprofundando conhecimentos em **Estrutura de Dados**, **Arquitetura d
 
 ## 🐍 Contribuições
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vitao5/Vitao5/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</div>
-
-> ⚠️ Para ativar a snake animation, crie o arquivo `.github/workflows/snake.yml` com o GitHub Action correspondente. [Veja como aqui →](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![snake gif](https://github.com/Vitao5/Vitao5/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
